@@ -1,4 +1,4 @@
-# Edinburgh RSE community meeting, 2018-11-21 ECA
+# Edinburgh RSE community meeting, ECA
 
 ## Purpose
 
@@ -7,7 +7,7 @@ and participate in a local community of practice
 
 ## Venue, Date, Time
 
-TBD; 1-3pm, Wed 11th November 
+TBD; 1-3pm, Wed 11th November 2018
 
 If you would like to register then please do so at this eventbrite [link]().
 ## Code of Conduct
