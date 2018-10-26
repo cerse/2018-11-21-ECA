@@ -1,4 +1,4 @@
-# Edinburgh RSE community meeting, 2018-11-2r1 Edinburgh College of Arts
+# Edinburgh RSE community meeting, 2018-11-21 ECA
 
 ## Purpose
 
