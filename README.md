@@ -7,7 +7,7 @@ and participate in a local community of practice
 
 ## Venue, Date, Time
 
-TBD; 1-3pm, Wed 11th November 2018
+TBD; 1-3pm, Wed 21st November 2018
 
 If you would like to register then please do so at this eventbrite [link]( https://www.eventbrite.co.uk/myevent?eid=51879677512).
 ## Code of Conduct
@@ -22,7 +22,7 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
-If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Sean McGeever, Geoff Lee, Giacomoo Peru). All reports will be reviewed by the organisers and kept confidential.  
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Geoff Lee, Sean McGeever, Giacomo Peru). All reports will be reviewed by the organisers and kept confidential.  
 
 ## Schedule
 
