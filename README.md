@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Our primary goal is to invite anyone active or interested in the area of Research Software or Technology to bootstrap
+Our primary goal is to invite anyone active or interested in the area of research software to bootstrap
 and participate in a local community of practice.
 
 ## Venue, Date, Time
