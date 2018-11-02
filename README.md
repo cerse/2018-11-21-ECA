@@ -9,7 +9,7 @@ West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Bui
 1-3pm, Wed 21st November 2018
 
 ## Registration
-If you register, it helps us to ensure we have enough __coffee and cake__. You can register at this eventbrite [link](https://www.eventbrite.co.uk/myevent?eid=51879677512).
+If you register, it helps us to ensure we have enough __coffee and cake__. You can register at this eventbrite [link](https://www.eventbrite.co.uk/e/edinburgh-rse-community-meeting-eca-tickets-51879677512).
 
 ## Lightning Talks
 We need speakers! Lightning talks are, as the name implies, VERY short talks (2 minutes, 1 slide) on _any aspect_ of developing, using or supporting research software. If you would like to present, please register using the link above and fill in the form.
