@@ -7,7 +7,8 @@ and participate in a local community of practice
 
 ## Venue, Date, Time
 
-TBD; 1-3pm, Wed 21st November 2018
+West Court, ECA Main Building [map] (https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
+1-3pm, Wed 21st November 2018
 
 If you would like to register then please do so at this eventbrite [link]( https://www.eventbrite.co.uk/myevent?eid=51879677512).
 ## Code of Conduct
