@@ -1,5 +1,5 @@
-# Edinburgh RSE community meeting
-# @Edinburgh College of Art
+# Edinburgh RSE community meeting @ECA
+Edinburgh College of Art hosts the second meeting of the Edinburgh RSE Community.
 
 ## Purpose
 
