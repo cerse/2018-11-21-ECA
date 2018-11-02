@@ -16,7 +16,7 @@ If you register, it helps us to ensure we have enough __coffee and cake__. You c
 We need speakers! Lightning talks are, as the name implies, VERY short talks (2 mintes, 1 slide) on _any aspect_ of developing, using or supporting research software. If you would like to present, please register using the link above and fill in the form.
 
 ## Schedule
-| Time |  | 
+| Time |       | 
 |------|------ |
 |13:00 | Welcome |
 |13:10 | Presentation: RSE In the College of Arts, Humanities and Social Sciences |
