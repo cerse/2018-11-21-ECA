@@ -2,8 +2,7 @@
 Edinburgh College of Art hosts the second meeting of the Edinburgh RSE Community.
 
 ## Purpose
-Our primary goal is to invite anyone active or interested in the area of research software to bootstrap
-and participate in a local community of practice. Coffee and cake will be provided, with ample time for comunity-building discussion.
+Our primary goal is to invite anyone in the Edinburgh area, active or interested in the area of research software, to bootstrap and participate in a local community of practice. Coffee and cake will be provided, with ample time for comunity-building discussion.
 
 ## Venue, Date, Time
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
@@ -16,6 +15,7 @@ If you register, it helps us to ensure we have enough __coffee and cake__. You c
 We need speakers! Lightning talks are, as the name implies, VERY short talks (2 minutes, 1 slide) on _any aspect_ of developing, using or supporting research software. If you would like to present, please register using the link above and fill in the form.
 
 ## Schedule
+
 | Time |       | 
 |------|------ |
 |13:00 | Welcome |
