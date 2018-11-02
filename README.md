@@ -16,15 +16,15 @@ We need speakers! Lightning talks are, as the name implies, VERY short talks (2 
 
 ## Schedule
 
-| Time |       | 
+|Time |       | 
 |------|------ |
-|13:00 | Welcome |
-|13:10 | Presentation: RSE In the College of Arts, Humanities and Social Sciences |
-|13:25 | Ice breaking session |
-|13:55 | Lightning talks |
-|14:25 | Summary |
-|14:35 | Coffee |
-|15:00 | Close |
+|13:00 | Welcome|
+|13:10 | Presentation: RSE In the College of Arts, Humanities and Social Sciences|
+|13:25 | Ice breaking session|
+|13:55 | Lightning talks|
+|14:25 | Summary|
+|14:35 | Coffee|
+|15:00 | Close| 
 
 
 ## Code of Conduct
