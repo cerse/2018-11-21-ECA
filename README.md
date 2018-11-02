@@ -1,4 +1,5 @@
-# Edinburgh RSE community meeting, Edinburgh College of Art
+# Edinburgh RSE community meeting
+# @Edinburgh College of Art
 
 ## Purpose
 
@@ -10,15 +11,16 @@ and participate in a local community of practice.
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
 1-3pm, Wed 21st November 2018
 
-If you would like to register then please do so at this eventbrite [link](https://www.eventbrite.co.uk/myevent?eid=51879677512).
+## Registration
+If you register, it helps us to ensure we have enough __coffee and cake__. You can register at this eventbrite [link](https://www.eventbrite.co.uk/myevent?eid=51879677512).
 
 
 ## Schedule
 
-|      | Time | 
+| Time |  | 
 |------|------ |
 |13:00 | Welcome |
-|13:10 | Keynote presentation by X |
+|13:10 | Presentation: RSE In the College of Arts, Humanities and Social Sciences |
 |13:25 | Ice breaking session |
 |13:55 | Lightning talks |
 |14:25 | Summary |
