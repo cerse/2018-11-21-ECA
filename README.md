@@ -13,7 +13,7 @@ West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Bui
 If you register, it helps us to ensure we have enough __coffee and cake__. You can register at this eventbrite [link](https://www.eventbrite.co.uk/myevent?eid=51879677512).
 
 ## Lightning Talks
-We need speakers! Lightning talks are, as the name implies, VERY short talks (2 mintes, 1 slide) on _any aspect_ of developing, using or supporting research software. If you would like to present, please register using the link above and fill in the form.
+We need speakers! Lightning talks are, as the name implies, VERY short talks (2 minutes, 1 slide) on _any aspect_ of developing, using or supporting research software. If you would like to present, please register using the link above and fill in the form.
 
 ## Schedule
 | Time |       | 
