@@ -19,13 +19,12 @@ We need speakers! Lightning talks are, as the name implies, VERY short talks (2 
 |Time |       | 
 |------|------ |
 |13:00 | Welcome|
-|13:10 | Presentation: RSE In the College of Arts, Humanities and Social Sciences|
-|13:25 | Ice breaking session|
-|13:55 | Lightning talks|
+|13:05 | Why RSE? : Neil Chue Hong |
+|13:15 | Presentation: RSE In the College of Arts, Humanities and Social Sciences|
+|13:35 | Ice breaking session / Discussion|
+|14:00 | Lightning talks|
 |14:25 | Summary|
-|14:35 | Coffee|
-|15:00 | Close| 
-
+|14:35 - 14:55| Coffee|
 
 ## Code of Conduct
 We expect all attendees at this meeting to abide by the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). In summary, we encourage the following behaviour:
