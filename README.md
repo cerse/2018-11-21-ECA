@@ -8,6 +8,11 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
 1-3pm, Wed 21st November 2018
 
+![alt text](ECA_Map.png "How to get in")
+
+Enter via Lauriston Place or Lady Lawson Street and make your way to the temporary reception. Take a left after reception and you'll find the West Court on your left after about 150 yards.
+
+
 ## Registration
 If you register, it helps us to ensure we have enough __coffee and cake__. You can register at this eventbrite [link](https://www.eventbrite.co.uk/e/edinburgh-rse-community-meeting-eca-tickets-51879677512).
 
