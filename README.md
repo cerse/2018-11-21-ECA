@@ -10,21 +10,12 @@ West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Bui
 
 ![alt text](ECA_Map.png "How to get in")
 
-Enter via Lauriston Place or Lady Lawson Street and make your way to the temporary reception. Take a left after reception and you'll find the West Court on your left after about 150 yards.
-
-
-## Registration
-If you register, it helps us to ensure we have enough __coffee and cake__. You can register at this eventbrite [link](https://www.eventbrite.co.uk/e/edinburgh-rse-community-meeting-eca-tickets-51879677512).
-
-## Lightning Talks
-We need speakers! Lightning talks are, as the name implies, VERY short talks (2 minutes, 1 slide) on _any aspect_ of developing, using or supporting research software. If you would like to present, please register using the link above and fill in the form.
-
 ## Schedule
 
 |Time |       | 
 |------|------ |
 |13:00 | Welcome|
-|13:05 | Why RSE? : Neil Chue Hong |
+|13:05 | [Why RSE? : Neil Chue Hong] (talks_intro/Chue%20Hong%20-%20Why%20RSE.pptx) |
 |13:15 | Presentation: RSE In the College of Arts, Humanities and Social Sciences|
 |13:35 | Ice breaking session / Discussion|
 |14:00 | Lightning talks|
