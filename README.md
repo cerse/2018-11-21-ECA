@@ -10,6 +10,13 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 * [Why RSE?: Neil Chue Hong](talks_introductory/Chue%20Hong%20-%20Why%20RSE.pptx) 
 * [Research Technology in the College of Arts, Humanities and Social Sciences: Fraser Muir](talks_introductory/Muir%20-Research%20technology%20in%20CAHSS%2020181121.pptx)
 * [RSE in ECA: Geoff Lee](talks_introductory/Lee%20-%20RSE%20In%20ECA.pdf)
+
+### Lightning Talks
+* [Neil Chue Hong](talks_lightning/Neil.pdf)
+* [Giacomo Peru](talks_lightning/Giacomo.pdf)
+* [John Stevenson](talks_lightning/John.pdf)
+* [Mike Mineter](talks_lightning/Mike.pdf)
+
 ## Venue, Date, Time
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
 1-3pm, Wed 21st November 2018
