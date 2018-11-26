@@ -4,18 +4,22 @@ Edinburgh College of Art hosts the second meeting of the Edinburgh RSE Community
 ## Purpose
 Our primary goal is to invite anyone in the Edinburgh area, active or interested in the area of research software, to bootstrap and participate in a local community of practice. Coffee and cake will be provided, with ample time for comunity-building discussion.
 
+## Slides
+
+### Intro Talks
+* [Why RSE?: Neil Chue Hong](talks_introductory/Chue%20Hong%20-%20Why%20RSE.pptx) 
+* [Research Technology in the College of Arts, Humanities and Social Sciences: Fraser Muir](talks_introductory/Muir%20-Research%20technology%20in%20CAHSS%2020181121.pptx)
+* [RSE in ECA: Geoff Lee](talks_introductory/Lee%20-%20RSE%20In%20ECA.pdf)
 ## Venue, Date, Time
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
 1-3pm, Wed 21st November 2018
-
-![alt text](ECA_Map.png "How to get in")
 
 ## Schedule
 
 |Time |       | 
 |------|------ |
 |13:00 | Welcome|
-|13:05 | [Why RSE? : Neil Chue Hong] (talks_intro/Chue%20Hong%20-%20Why%20RSE.pptx) |
+|13:05 | Introductory talks |
 |13:15 | Presentation: RSE In the College of Arts, Humanities and Social Sciences|
 |13:35 | Ice breaking session / Discussion|
 |14:00 | Lightning talks|
