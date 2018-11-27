@@ -16,6 +16,8 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 * [Giacomo Peru](talks_lightning/Giacomo.pdf)
 * [John Stevenson](talks_lightning/John.pdf)
 * [Mike Mineter](talks_lightning/Mike.pdf)
+* [Evan Morgan](talks_lightning/Evan.pdf)
+* [Lucia Michielin](talks_lightning/Lucia.pdf)
 
 ## Venue, Date, Time
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
