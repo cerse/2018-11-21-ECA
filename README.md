@@ -18,6 +18,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 * [Mike Mineter](talks_lightning/Mike.pdf)
 * [Evan Morgan](talks_lightning/Evan.pdf)
 * [Lucia Michielin](talks_lightning/Lucia.pdf)
+* [Riinu Ots](talks_lightning/Riinu.pdf)
 
 ## Venue, Date, Time
 West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Building,+Edinburgh)
