@@ -1,5 +1,5 @@
 # November 2018 @ECA
-Edinburgh College of Art hosts the second meeting of the Edinburgh RSE Community.
+[Edinburgh College of Art](https://www.eca.ed.ac.uk/) hosted the second meeting of the Edinburgh RSE Community.
 
 ## Purpose
 Our primary goal is to invite anyone in the Edinburgh area, active or interested in the area of research software, to bootstrap and participate in a local community of practice. Coffee and cake will be provided, with ample time for comunity-building discussion.
