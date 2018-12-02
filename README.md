@@ -7,7 +7,7 @@ Our primary goal is to invite anyone in the Edinburgh area, active or interested
 ## Slides
 
 ### Intro Talks
-* [Why RSE?: Neil Chue Hong](talks_introductory/Chue%20Hong%20-%20Why%20RSE.pptx) 
+* Why RSE?: Neil Chue Hong ([pptx](talks_introductory/Chue_Hong-Why_RSE.pptx))  ([pdf](talks_introductory/Chue_Hong-Why_RSE.pdf))
 * [Research Technology in the College of Arts, Humanities and Social Sciences: Fraser Muir](talks_introductory/Muir%20-Research%20technology%20in%20CAHSS%2020181121.pptx)
 * [Research Software at Edinburgh College of Art: Geoff Lee](talks_introductory/Lee%20-%20RSE%20In%20ECA.pdf)
 
