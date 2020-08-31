@@ -26,7 +26,7 @@ West Court, [ECA Main Building](https://www.google.co.uk/maps/place/ECA+Main+Bui
 
 ## Schedule
 
-|Time |       | 
+|Time | Topic  | 
 |------|------ |
 |13:00 | Welcome|
 |13:05 | Introductory talks |
